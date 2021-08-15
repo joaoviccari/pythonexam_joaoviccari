@@ -1,0 +1,454 @@
+business_id,business_name,city,state,reviews_since_date,mean,standard deviation,median,mode
+QpluKst9hODqjUXkli2kCg,Lobelix,Torino,TO,2,2.5,0.7071,2.5,2
+Q3axgZk1-lieWZ5Bf2ZmBA,Signorvino,Torino,TO,3,4.6667,0.5774,5,5
+Za6Wk0R2dZof5U6IriYVVQ,SIX Nations,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+lb7COHZBV7-fzez9pjpQOw,Birrificio Torino,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+_kP6r0bQn8WqgdUqAXEsJw,Piper Pub,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+uwd0cDNpTpVNA6mtk33csQ,Bistrot Turin,Torino,TO,1,5,Not applicable,5,5
+V2T7hxfnrne8NaWPT41xcQ,La Drogheria,Torino,TO,3,4.3333,0.5774,4,4
+lndJiI4qPpDhX5ZxMOTEMg,Imbarco Perosino,Torino,TO,3,5,0.0,5,5
+fS4T9e9QOeHhweqdjhiCJw,manhattan pub,Torino,TO,1,5,Not applicable,5,5
+ijliX4Q6mM1FzC4XTQM9Vw,Eno' Libero Emporio Enogastronomico,Torino,TO,1,5,Not applicable,5,5
+p0DFrLO_iG8tXXwXkXOVPg,Bicyclette,Torino,TO,1,5,Not applicable,5,5
+svWWqTdoZ-7GTc4q0ZOSUg,Cornetti Night,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+xHknG_DeabGCy1DwVcWnnw,Huntsman Pub,Torino,TO,1,4,Not applicable,4,4
+tQBfAL5ZRENWGwzilpPg9Q,Les Arcades Tamango,Torino,TO,1,4,Not applicable,4,4
+dhBMAeGa4Z2ucxcbERha7w,Jumping Jester,Torino,TO,2,3.5,2.1213,3.5,2
+4ZKzFeVqjkcWN9QHjdneTw,Granbar,Torino,TO,1,4,Not applicable,4,4
+a1klpCDrMITsgznF81jmSA,In Vino Veritas,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+QnF_kGsXY6QrV4Wf8atNDg,Blah Blah,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+Gb8bbcVLvjrw9Mxmhn1SFg,Old America,Moncalieri,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+gPzR4aF3JJU8NYLo7LSreQ,Birreria La Divina Commedia,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+coUBFh8lTSUkLZtU4U1YTQ,John Lennon's,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+-Sw2VaVU_6T4CmomtyL8CQ,The Kerryman - Guinness Pub,Moncalieri,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+XgweGDq62kN_KrghTyh1kw,Pepe,Torino,TO,1,5,Not applicable,5,5
+zQ6Bz6pxsHppPD7E7sKN9A,St. Martin,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+63JEvWdDe1-Lb4bQ922v8w,Bar: BAR BLU,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+BHrCJ8IKIDgg3NCFCJivnQ,The Duke of Wellington,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+jSILLZ_MmSRfe53baYZJSA,Zelli Wine Bar,Torino,TO,1,1,Not applicable,1,1
+mDk480ngKk-r1Z2AZyBaaw,Buck's G.D. 34,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+sWszBGs2QxzxW7xoKDwTPw,Piedmonte Lounge,Torino,TO,2,4,0.0,4.0,4
+bMw1D01kv86gXlVHB4VwQw,Osteria Nuova,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+pZ_4VvoQ4SHKqTEppS2lnQ,The Governor Pub,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+svYxNRnzeNPxZB7hBztDmA,L'Angolo del Caffè,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+vqu5g6-iFT7vs63Och9AvQ,Pastis 2020,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+pdcGRRfeNPmUM_gCOqiq7g,Taj Mahal,Torino,TO,1,5,Not applicable,5,5
+No4AWn63UyHckaC5sitKqQ,La Cabane,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+-van9eRstvwUVr3-mN_p4w,Bunet,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+minjHSfPloDNVTKHLQJCng,Birreria Bar Tapas,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+MDdihpZNTCgGyX00zQklHA,Antica Salumeria,Torino,TO,1,5,Not applicable,5,5
+RaEeYfxfvv2PDSEAiMB19A,Sicily BAR,Torino,TO,1,5,Not applicable,5,5
+dMb6tzCyMQ8FiPTsjlFNFQ,Tiffany Lounge,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+9F8OJkDDdLPwR8FedhmNeg,Biberon,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+aKJl2p1zyT4Rujzvj0Y4zg,Bar Costarica,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+VaKSMqymNA2iDBb3tXaK5Q,Barcollo,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+a3EXUMY3PcDyhTJsDbrYZQ,Bar Emilia,Venaria,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+iXuL8eAu4kGt2ouNYZK-Hw,Sir Francis Drake,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+0cTlfE38qiih54JT__G6Jw,Il Barotto,Torino,TO,1,5,Not applicable,5,5
+U2LFbSBMuWlYF6cOnI39eQ,Winston Churchill New Pub,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+wncWVhFAE3BHQFX1BDGVvQ,Brasserie Bordeaux,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+D0NHf6KMSPk111QR7W7xjw,Bar: Rubino Marco,Torino,TO,0,Not applicable,Not applicable,Not applicable,Not applicable
+CmVLJQ0eL0YHUAg1oHgBkQ,Astoria,Torino,TO,1,5,Not applicable,5,5
+pE2eS0PW9dnP2Iy3oU38Gg,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+2LffbDWKb_WDXUY9WBAw2Q,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+y7oB9EWUCUS_1qy6fVn9EA,McDonald's,Rio de Janeiro,RJ,2,1,0.0,1.0,1
+FracxmKypb99OZBGDA4ckQ,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+zuvJps4B9YpUCt1w96ru5w,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+IYobntFrgQjOtCaSliuGwA,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+Yu5BBqUzir-0k4LCTi-VkQ,Comuna,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+jseVgqpZPjt-zAChtwjFEg,Gringo Café,Rio de Janeiro,RJ,3,3.6667,1.5275,4,5
+weWONFLoHhTs7C5hB3ctJw,TT Burger,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+uJuTblcLXkHCeoGdk44anw,Hell's Burguer,Rio de Janeiro,RJ,3,3,1.0,3,4
+JhbrYYw8r_B-p30reYc2HA,Bibi Sucos,Rio de Janeiro,RJ,3,3.6667,1.5275,4,2
+ZWlbgajLGL5iIp0hObJTWg,Banana Jack,Rio de Janeiro,RJ,3,2.6667,1.1547,2,2
+lXkoXuF0QiLQCt0y26jQhA,Stalos,Rio de Janeiro,RJ,3,4,1.0,4,3
+Iagx7eBREmoVnAjLLw3OUw,Pub Escondido,Rio de Janeiro,RJ,3,3.6667,0.5774,4,4
+0oEYRbgmnYwP8CHIGhGOtQ,B de Burger,Rio de Janeiro,RJ,3,3.6667,2.3094,5,5
+4PnKVKYKuNqSukI3cMP6zw,Caverna,Rio de Janeiro,RJ,1,5,Not applicable,5,5
+cQMTZnRr3knNwvG51NL04g,Cafofo Pub,Rio de Janeiro,RJ,3,4.3333,0.5774,4,4
+eodM-2R5gY0CkriEPlfikw,The Boua,Rio de Janeiro,RJ,3,2.6667,0.5774,3,3
+yPrW0bDq4-h_EOgxcOX_iQ,The Fifties,22290-160,Rio de Janeiro,0,Not applicable,Not applicable,Not applicable,Not applicable
+Kdcu7GPenVVIJDLSExyzPw,BB Lanches,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+kWeWg9quN7j14g7H9YJ8MA,Beco do Hamburguer,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+duTSETeotGWndD4W2VnTXw,Reserva T.T. Burger,Rio de Janeiro,RJ,3,3,0.0,3,3
+MTcVVj0-_p-2hFa6kLauFA,Koni,Rio de Janeiro,RJ,3,4.3333,1.1547,5,5
+noo07gYMrqP-iyvgWmft3A,Vikings,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+lkG7qjInbWDRnjmG5xsNMQ,Meating Homemade,Rio de Janeiro,RJ,3,3.3333,1.1547,4,4
+ReIkbLqpR1H4ZzIgs88JmA,Lupulino,Rio de Janeiro,RJ,3,3,1.0,3,4
+QStP2W-mCgr3dTDs0kBaBg,Bucaneiros,Rio de Janeiro,RJ,1,5,Not applicable,5,5
+OxetVmWSSPa3cGW9bObPEQ,Rolé,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+YmWoKRoPz3TpH38qiD2SQQ,BIBI,Rio de Janeiro,RJ,3,4.3333,1.1547,5,5
+a2e8eodjtPoNoy0j_gm5Dw,Bar do Lado,Rio de Janeiro,RJ,3,4,1.0,4,4
+k7CphnE-vH8XdE0R2W-HFw,Nectar,Rio de Janeiro,RJ,3,2.3333,1.5275,2,2
+B1Z628TrpqzWt4Cwpbp1ew,Choperia Brazooka,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+u8F1byJgSS_5df8ScZeMIQ,Mironga,Rio de Janeiro,RJ,3,2.6667,0.5774,3,3
+aYisiX78ReZ_uZbUCNGIdg,Pavelka,Rio de Janeiro,RJ,2,4.5,0.7071,4.5,4
+YqLr2fOBb_gJ5cMA9EyLUQ,Inverso Bar,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+gYw3wZAyjnTEx3gaIis_CQ,Metrópole,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+uCkmoza31jNYQPkXcIHvCA,Batata Inglesa,22290-906,Rio de Janeiro,0,Not applicable,Not applicable,Not applicable,Not applicable
+gzDDB5QHlSh6Hk_W94jsQg,Zacks,Rio de Janeiro,RJ,1,3,Not applicable,3,3
+5Vgjdf9yNVNjVACNYjoLEQ,Da Roberta,Rio de Janeiro,RJ,1,3,Not applicable,3,3
+uV4Wuhqm0lc1JgcjOeeooA,Bar da Gema,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+bpgH-c8xPUt8s2__790ObQ,Burger King,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+KXaggp74cOroM-EnEaRnSw,Bar da Frente,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+82_ftFPaANdBECmAOIU9JA,Via Sete,Rio de Janeiro,RJ,3,3.6667,0.5774,4,4
+8OtULYaSzF8ve3hnKtkTFg,Café 18 do Forte,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+YGsSxSaw1t_3d7rrgY7QPg,Bob's,22071-020,Rio de Janeiro,3,1.6667,1.1547,1,1
+IReht03PYK73K5qQpAxIRg,Cortés,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+_IwuFwUBP8VIUzRDFh2_qA,Subway,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+8GtLwXDAwK1ofMmpyp_zDQ,Beluga,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+1nzGrDTjHpqSs82x2EGuqQ,Wenceslau Beer Club,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+g6x6FGe2oEPhw02g6QlP9A,Fry's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+y2w6rFaO0XEiG5mFfOsiFA,Neptune Oyster,Boston,MA,3,3,2.0,3,1
+EbUZhM4fLpsWQ8fpBhhgEQ,Mike & Patty's - Boston,Boston,MA,3,3.6667,2.3094,5,5
+sRNcBkZrs2bOrijfElHVyQ,The Paramount,Boston,MA,3,4.6667,0.5774,5,5
+rcn3L8ZeQebdG0K1RSRKXQ,Drink,Boston,MA,3,3.3333,2.0817,4,4
+xZ22_0eJOgaiKqIhoSHrPw,Bostonia Public House,Boston,MA,3,4.6667,0.5774,5,5
+yBIN7uSzd5saehWA1I_GBw,Row 34,Boston,MA,3,4.6667,0.5774,5,5
+VFvCFOYtyK9ae4Skxvf3vA,Saus,Boston,MA,3,5,0.0,5,5
+sA2gVTJOBH7Qk32p48ENdQ,Saltie Girl,Boston,MA,3,4.6667,0.5774,5,5
+qKIRWznwbEmBGOoEhAYfIg,Mr. Bartley's Gourmet Burgers,Cambridge,MA,3,3.6667,1.5275,4,4
+HEaQQAH6qyFXamKkpil91A,Pauli's,Boston,MA,3,4.6667,0.5774,5,5
+Hc9l2eLAGTB4lZJI3vRoPw,Tasty Burger,Boston,MA,3,4.3333,0.5774,4,4
+Dvwj6KWrDZHVQwlSjYS4Iw,Boston Burger - Boston,Boston,MA,3,4,1.0,4,5
+M0Z57IL0dlzpU6QCez0wGA,North Street Grille,Boston,MA,3,3.3333,2.0817,4,5
+smiGOZuyboXfc8LyC2jXpg,Joe's On Newbury,Boston,MA,3,5,0.0,5,5
+JwJa6nY_wlZEjagVleWQ-Q,Cheers,Boston,MA,3,3.6667,0.5774,4,4
+uCJqYrBSITSrJBHyMPznwg,The Bell In Hand,Boston,MA,3,4.6667,0.5774,5,5
+IOpXmCLtQ3OHvvMzOXaPbg,Boston Burger - Somerville,Somerville,MA,3,4,1.0,4,5
+fdYXcuxCtWY5XFpiCd3Fkw,Wahlburgers,Boston,MA,3,2.3333,2.3094,1,1
+rdpY_LeMnDnfeK47eDnDOw,Lincoln Tavern and Restaurant,Boston,MA,3,4.6667,0.5774,5,5
+aGYdF_fNHDhFCAnXoTCkGA,Boston Sail Loft,Boston,MA,3,4.3333,1.1547,5,5
+_RWkck7niE8VJG3zLXK2ig,Silvertone,Boston,MA,3,4.6667,0.5774,5,5
+09pqlAR4TSjQXNTiB4cXjw,Jm Curley,Boston,MA,3,5,0.0,5,5
+Zf70bCxwMFD1TCBKr13LQQ,South Street Diner,Boston,MA,3,4.3333,1.1547,5,5
+MKIngNGj0_cBKV4leGuCjw,The Tip Tap Room,Boston,MA,3,4.3333,1.1547,5,5
+CWqL2TEq_V9tipCj-X-GoQ,Granary Tavern,Boston,MA,3,3.3333,1.5275,3,2
+SvMVqEWYJXPOr6vJlRYnrg,Joe's Waterfront,Boston,MA,3,3.6667,0.5774,4,4
+JO1aGVtB0TYtunc4Km_-Dg,Koy,Boston,MA,3,3,1.0,3,4
+I4TsMod2uKwI1ftm0fd2hQ,Theo's Cozy Corner,Boston,MA,3,5,0.0,5,5
+-S_m_GBqkGEjABeO0FaxzA,State Street Provisions,Boston,MA,3,3.6667,1.1547,3,3
+Qjr-YJ4Rx70XxHI4kTcVjA,Back Deck,Boston,MA,3,2.6667,2.0817,2,5
+h1ESQaA5FvWju1Ru-2xPXQ,The Haven,Jamaica Plain,MA,3,4.6667,0.5774,5,5
+6sM4hFHheaRNwsd74wplEw,The Green Dragon Tavern,Boston,MA,3,2.3333,2.3094,1,1
+u21_m6mewRV6pTMn9DCosA,City Tap House,Boston,MA,3,3.3333,0.5774,3,3
+MkjhW1dVbl3e0AxBL0oXKw,Ward 8,Boston,MA,3,3.6667,1.5275,4,5
+8I2CBbVJnWS8w8OfkexE8g,The Warren Tavern,Charlestown,MA,3,3.3333,1.5275,3,5
+Gs4lOF2OuftG6iQl-iOVdQ,Trillium Brewing - Fort Point,Boston,MA,3,4.3333,1.1547,5,5
+2v0-gBcXethuNFT6rMGiRw,Mr. Dooley's,Boston,MA,3,5,0.0,5,5
+1C32E52HmhRC3GNwkX2nZg,Moonshine 152,Boston,MA,3,4,1.7321,5,5
+IJ2MnBlIvib0aU2hbmr0hg,The Brewer's Fork,Boston,MA,3,5,0.0,5,5
+ZrSNKHiKK_PBB6UHx22FaA,21st Amendment,Boston,MA,3,3.3333,2.0817,4,5
+Hz_fXkcR85-6EQfkOKV5IQ,Shake Shack,Boston,MA,3,4,1.0,4,4
+HkBMQKpmmdCZgxjKLq3HcQ,Atwood's Tavern,Cambridge,MA,3,4.6667,0.5774,5,5
+q8w8prtrDBgFrTzAl2hW4Q,Boston Burger Company,Cambridge,MA,3,3.6667,0.5774,4,4
+lzJ2QFiScrLJkGsjzXjXxQ,Sullivan's Castle Island,Boston,MA,3,5,0.0,5,5
+9kzW4uPNdm0tsmN3AKFs8A,Hard Rock Cafe,Boston,MA,3,3.6667,2.3094,5,5
+n6iTeADfaVagZjsoZZ631A,Emmet's Irish Pub & Restaurant,Boston,MA,3,5,0.0,5,5
+IvvgLWS3J6qR4dhYMlDOPA,Tavern In The Square,Boston,MA,3,3,1.7321,4,4
+evALU63R32T6Z7rY_EQYRA,B.GOOD,Boston,MA,3,4,0.0,4,4
+9VGECwLbj29RljD2WVSzaw,Porters Bar & Grill,Boston,MA,3,4.3333,1.1547,5,5
+jhFi0oxdyiyCYK7i-CW59A,Black Seed Cafe & Grill,Boston,MA,3,4.3333,1.1547,5,5
+WIhm0W9197f_rRtDziq5qQ,Lombardi's Pizza,New York,NY,3,4.3333,1.1547,5,5
+2ggi1luerd3Mf_C82JvCYg,Grimaldi's Pizzeria,Brooklyn,NY,3,3.6667,2.3094,5,5
+vfYhEpp0x-DrNjC6GSJjPQ,Artichoke Basille's Pizza,New York,NY,3,4.3333,1.1547,5,5
+zj8Lq1T8KIC5zwFief15jg,Prince Street Pizza,New York,NY,3,3.6667,2.3094,5,5
+C8j0q4Ma_S5hBGuAI-aaww,Di Fara Pizza,Brooklyn,NY,3,3.6667,1.5275,4,5
+FhXjAc6nKLf414KxYujUHw,Roberta's,Brooklyn,NY,3,4,0.0,4,4
+uc5qQMzs96rzjK27epDCug,Joe's Pizza,New York,NY,3,3.6667,2.3094,5,5
+oJ_XSPZFpvIt6rvheSQl7A,Bleecker Street Pizza,New York,NY,3,4.6667,0.5774,5,5
+WG639VkTjmK5dzydd1BBJA,Rubirosa,New York,NY,3,3.6667,2.3094,5,5
+ysqgdbSrezXgVwER2kQWKA,Juliana's,Brooklyn,NY,3,4.3333,1.1547,5,5
+LF1QAuvpfX7KGQlg2zMg6Q,John's of Bleecker Street,New York,NY,3,5,0.0,5,5
+-9NO2IDCJMyNGZMAQ1-VQw,NY Pizza Suprema,New York,NY,3,4.6667,0.5774,5,5
+yH6t1JWcwkdWG4CS5KPvow,Adrienne's Pizzabar,New York,NY,3,4,1.0,4,4
+Q9F2ocrmYuGt1yn3M7MOBw,Lucali,Brooklyn,NY,3,3.3333,2.0817,4,1
+0-hM-ARw7sLpkyyow_qf6w,Artichoke Basille's Pizza,New York,NY,3,4,1.0,4,4
+pGr5QuQU7Ur5GHLvXbT8bw,Paulie Gee's,Brooklyn,NY,3,5,0.0,5,5
+KEEXuHCYhsQJ-zpJhu98bA,Joe's Pizza,New York,NY,3,3.3333,1.5275,3,2
+TWH4MjLtN1fKlF-7n6YXHg,Lil Frankie's,New York,NY,3,3.3333,1.1547,4,4
+FogLdooqSzKbmkwMGSwDiQ,Razza Pizza Artigianale,Jersey City,NJ,3,3.3333,1.5275,3,5
+0UdC0VYX6aAvLiOcpR4MVQ,Joe's Pizza,New York,NY,3,3.6667,1.5275,4,5
+tRIHhPKryUZ56SfIz6mLiA,Angelo's Coal Oven Pizzeria,New York,NY,3,3,1.7321,4,4
+rZ9OFoSqy8u4WECfh--ylg,Marta,New York,NY,3,4,1.0,4,5
+ZLPYcgEeRllSoeWyr7y4Ig,Totonno's,Brooklyn,NY,3,5,0.0,5,5
+oRdM7n-AfBPBGAlH4Q0Sag,My Pie Pizzeria Romana,New York,NY,3,4.3333,0.5774,4,4
+GXq2Qsm--A7QQt9rTXldig,Deninos Pizzeria & Tavern,Staten Island,NY,3,3.6667,2.3094,5,5
+lxPVSGnZ7YTiO5OGrqBS8Q,Vinnie's Pizzeria,Brooklyn,NY,3,4.6667,0.5774,5,5
+UuY1QCxWybMF0IMxAYG06w,Emmy Squared - Brooklyn,Brooklyn,NY,3,4.3333,0.5774,4,4
+Aazjxg21VH2cncWYBAv68Q,Sottocasa Pizzeria,Brooklyn,NY,3,5,0.0,5,5
+v1DHGRNCH9247WLYoaoA9A,L'industrie Pizzeria,Brooklyn,NY,3,4.6667,0.5774,5,5
+kVrTff8uDMSBAaceBwQ7dg,Saluggi's,New York,NY,3,4.6667,0.5774,5,5
+xrgzB0pvsxeGEIboE6I2gg,Patsy's Pizzeria,Brooklyn,NY,3,4.6667,0.5774,5,5
+7vq2CNM69sdrXrtbT2-qEQ,Campania Coal Fired Pizza,Brooklyn,NY,3,5,0.0,5,5
+MwcRbM6lS6_8N67LmyBELA,99 Cent Fresh Pizza,New York,NY,3,4,1.0,4,5
+15k7iqFbhf4h8L01yggLqg,Song E Napule,New York,NY,3,4.3333,0.5774,4,4
+ynQ8NJB7SEAIkuUxopHPvA,Ignazio's,Brooklyn,NY,3,4,1.0,4,5
+hGksyTiHBBdrhbiVjXzWVw,Scarr's Pizza,New York,NY,3,3.6667,2.3094,5,5
+i9UMc9gLeORtCLd-OoGgYg,Lions & Tigers & Squares Detroit Pizza,New York,NY,3,4.3333,0.5774,4,4
+WE_dce2JKcv-VoFNaqiJ4w,Carmine's Pizzeria,Brooklyn,NY,3,4,1.0,4,5
+m3PS0tIaa0ChcP8Y5S-DrQ,MAMA'S TOO!,New York,NY,3,3.6667,2.3094,5,5
+OVrHAnfna46SdaFnTNqhhQ,Artichoke Basille's Pizza,Brooklyn,NY,3,4.3333,1.1547,5,5
+xxgcU_oFIox_pAmroo9WwA,Front Street Pizza,Brooklyn,NY,3,4.6667,0.5774,5,5
+oOr6Ta5gZyDl6PyZ1cq7pg,East Village Pizza,New York,NY,3,4.3333,0.5774,4,4
+d0ic0tnQjujPsjQNuC1awQ,Anna Maria Pizza,Brooklyn,NY,3,2.6667,1.5275,3,1
+GRXvvB1OKMuW4XDWEaVAlg,Joe's Pizza,Brooklyn,NY,3,4.3333,0.5774,4,4
+02sAHm3_CsRKE2IeT5iaPA,Table 87 - Gowanus,Brooklyn,NY,3,3.6667,2.3094,5,5
+atbANdSznV29GI066I2Ijw,Champion Pizza,New York,NY,3,4.3333,1.1547,5,5
+hFmz7HH2og9hn7xNNv20yw,Il Porto Ristorante,Brooklyn,NY,3,5,0.0,5,5
+VP3-iMnKK_TaHDuy6mxTzA,Scott's Pizza Tours,New York,NY,3,5,0.0,5,5
+vTn3ww550Rnhz9naIxtjww,Brunetti Pizza,New York,NY,3,4,1.7321,5,5
+i_rg-OLXQbpRUN7O3MeCeA,Piz-zetta,Brooklyn,NY,3,5,0.0,5,5
+OUnoWYXSQ8X2dbwfOq5S5Q,Topper's Bar & Grill,Montevideo,MN,3,3,1.7321,2,2
+Z2faOq0UXZmGuTaBgG5aHg,The Rusty Duck Bar & Grill,Dawson,MN,3,3.6667,1.5275,4,5
+VkLLLZjh1-cqP-uE3k55ug,Shooters Bar & Grill,Appleton,MN,3,2.6667,1.5275,3,3
+L6oE_igssk4L4jcnn5UxRA,GreenDoor Steakhouse & Sports Bar,Minneota,MN,2,4,1.4142,4.0,5
+wYns1IvsIaueaMTJjkjmog,Groat's Boars Nest,Montevideo,MN,1,4,Not applicable,4,4
+6vmbYQcnwpskXL85urtjpg,La Trattoria,Rio de Janeiro,RJ,3,3.6667,1.5275,4,4
+XS1EXMURTJcdh8nlquhjmA,Artigiano,Rio de Janeiro,RJ,3,3,1.7321,2,2
+lPXJjgLUX26nV3jgeXJPVA,Santa Satisfação,Rio de Janeiro,RJ,3,4.3333,0.5774,4,4
+7qX0uJd1jcpvT89b2gDA7Q,Delírio Tropical,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+JyeGcOnigDvfFppM6ldFFQ,Alessandro e Frederico Café,Rio de Janeiro,RJ,3,4,0.0,4,4
+oXK_RDcx1SHyf5PsTIFO5A,Balada Mix,Rio de Janeiro,RJ,3,4,0.0,4,4
+lLPDP_Qo6SIbMkLwwdHcNg,Prima Bruschetteria,Rio de Janeiro,RJ,3,3.6667,1.1547,3,3
+9F_iLbcvPZjvP85HrKkxKQ,Capricciosa,Rio de Janeiro,RJ,3,3.3333,1.1547,4,4
+WsPgxqeD4gnevPgzzwcUmw,Cantina Donanna,Rio de Janeiro,RJ,3,3.3333,1.1547,4,4
+hw-Q4poo76s_d4SF-r82Vg,Quadrucci,Rio de Janeiro,RJ,3,4,0.0,4,4
+Bk-dJKnt91k2L5_JXcbBtQ,Fiammetta,Rio de Janeiro,RJ,2,4.5,0.7071,4.5,4
+UpggFiVH-lYq6_xHi-CkMA,Don Camillo,Rio de Janeiro,RJ,3,3,2.0,3,5
+7L50IXfODDqcFiEzjrfoVg,VIA 44,Rio de Janeiro,RJ,3,4,1.0,4,3
+DB3RlzxSav11yttLoOJMXg,Carmelo,Rio de Janeiro,RJ,3,4.3333,1.1547,5,5
+1LJsx5LbNOoHv6fLCdCKgQ,Luigi's,Rio de Janeiro,RJ,3,4.3333,0.5774,4,4
+3h-Vwth07kWdbVVy0AaA-g,Mamma Rosa,Rio de Janeiro,RJ,3,4,1.0,4,3
+SPzUaZzPuOf3Ko1mGk20eA,Brigite's,Rio de Janeiro,RJ,3,2.3333,2.3094,1,1
+cdSNuPK3-hXvFmMyMhvRMQ,La Fiorentina,Rio de Janeiro,RJ,3,4.3333,1.1547,5,5
+uXiWi6BMf9G9hblFi3bRIg,Pomodorino,Rio de Janeiro,RJ,3,4,0.0,4,4
+kPHU2lK4TDCMa1IVAKGHFw,Faenza,Rio de Janeiro,RJ,3,2.3333,1.5275,2,4
+k5_rPRbm6IJ6rpDPHmjF4A,Delírio Tropical,Rio de Janeiro,RJ,3,4,0.0,4,4
+b9Wn5P9yyBHkMwTMSj09hg,Itahy,Rio de Janeiro,RJ,3,4,1.0,4,3
+vQrsn9iFjaYqDHCE8XXKjQ,Pici Trattoria,Rio de Janeiro,RJ,3,4.3333,1.1547,5,5
+BpAN1KTe8T2XLhGT1FOb-A,L'Ulivo Cucina e Vini,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+yaJhyDa9yWJA4LBH0OKVUQ,Da Brambini,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+HMvpYkBm5WoQAY7PBoCTbw,Filet e Folhas,Rio de Janeiro,RJ,2,3.5,2.1213,3.5,5
+hdNuVflLZpmjwGDZvW9rJQ,Diagonal,Rio de Janeiro,RJ,3,3,1.7321,4,4
+70B0rY7nq2pKQB6xA1YyMQ,D'Amici Ristorante,Rio de Janeiro,RJ,3,3.6667,2.3094,5,5
+2ECx2o64h8M7Xmk4-kOGMw,Appetito,Rio de Janeiro,RJ,3,2,1.0,2,2
+pxnr3YWhHfHlKkIHaxuTLw,Rústico,Rio de Janeiro,RJ,3,4.3333,0.5774,4,4
+q9UtghR4gXR2rdE8-UHysg,Cipriani,Rio de Janeiro,RJ,3,3.6667,1.5275,4,5
+x9wdVQaA4ECV1pDqYSWKgw,Cavist,Rio de Janeiro,RJ,3,3.6667,1.5275,4,5
+-ejXjYF_RhbViPIlyhtVkw,Posí,Rio de Janeiro,RJ,3,4,1.7321,5,5
+fEtFaHK8jYdWwvvoMsR5TQ,Ráscal,Rio de Janeiro,RJ,2,4.5,0.7071,4.5,4
+jGa3DbyvKZmwzMLqdo4o6w,Gabbiano Al Mare,Rio de Janeiro,RJ,2,3.5,0.7071,3.5,4
+x3NSubn1zpsGAutCbcn18Q,Fratelli Restaurante,Rio de Janeiro,RJ,3,3,1.0,3,3
+VWDnx-KU1gWQ64lLINtV3g,Bottega Del Vino,Rio de Janeiro,RJ,3,3.3333,0.5774,3,3
+ou7Satyei45UWyM3x5Ek4Q,Pappa Jack,Rio de Janeiro,RJ,2,3.5,0.7071,3.5,3
+L_FWBjTf9UcI18e74udN5w,Armazém das Massas,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+mT2BZ-8zfCSWqh_EHoci-w,Spoleto,Rio de Janeiro,RJ,2,2.5,0.7071,2.5,3
+2tpavD7ongAJOLVTS7Cr_Q,Deliziosa,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+CFG4iJX7enIMg-SOTnGuPg,Massa,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+sOJd05wGhgEHOF3eZTM4VA,Alloro al Miramar,Rio de Janeiro,RJ,1,5,Not applicable,5,5
+onkzoSb51ol6srP-xBsRAA,Spoleto,Rio de Janeiro,RJ,1,5,Not applicable,5,5
+v6dTIHOG7Fmh7Iyj_VEyGA,Coliseu das Massas,Rio de Janeiro,RJ,1,3,Not applicable,3,3
+-LsgGu7aIJSQhDoZMiq8Tw,Little Mamma,Rio de Janeiro,RJ,1,3,Not applicable,3,3
+_sZo03U_w5_k7cLwlJBSgg,Pissani,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+7b-xC667YEe6RI7Fp8ER-Q,Domino's Pizza,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+J55fX2Gs-ry0XNCnEDiLNQ,Donut Bar,San Diego,CA,3,5,0.0,5,5
+IuX5vCDzmHzjbNi3wRD5Nw,Werewolf,San Diego,CA,3,5,0.0,5,5
+mzLGnmpwtrIgUeplJtmOOw,La Puerta,San Diego,CA,3,3.6667,2.3094,5,5
+vrIfELlUZmd-6QcWttNp1Q,Barleymash,San Diego,CA,3,4.6667,0.5774,5,5
+48IFYYRKXAlCn1JbCV3_bA,King & Queen Cantina,San Diego,CA,3,5,0.0,5,5
+OKOCt9shJMRj0Mf88JrL0w,Craft & Commerce,San Diego,CA,3,4.6667,0.5774,5,5
+rgB0MQ11LDwn8_MtZtktDA,Neighborhood,San Diego,CA,3,4.6667,0.5774,5,5
+YLCrLRRDiec35o2FmBxipA,Queenstown Public House,San Diego,CA,3,3.6667,2.3094,5,5
+fK767jP2s4CsOt2cfflqQQ,Starlite,San Diego,CA,3,4.6667,0.5774,5,5
+ovS5ddNNiABiLydUPr1duQ,Kettner Exchange,San Diego,CA,3,5,0.0,5,5
+bzwitAHHG7JFnjhq_0h9tw,Rustic Root,San Diego,CA,3,3.6667,2.3094,5,5
+4imUXuNwJCDQS5xFdlFVrQ,Born & Raised,San Diego,CA,3,4.3333,1.1547,5,5
+ZnpjgPoEgdchWRoo-FeGRg,Vin De Syrah,San Diego,CA,3,5,0.0,5,5
+OH7q11jiujLZINHE5Pzamg,Noble Experiment,San Diego,CA,3,5,0.0,5,5
+rBg4kcJvZvDUPE-FnZE3HA,ALTITUDE Sky Lounge,San Diego,CA,3,4.3333,1.1547,5,5
+UWrMyPVyR9tUytJ8ejTE0w,Polite Provisions,San Diego,CA,3,3.6667,2.3094,5,5
+zqGu8-7PnyTOFs_9Hd0eqA,The Shout! House,San Diego,CA,3,3.6667,1.5275,4,5
+QiH2jQvHtf-cIRV7VlCeGg,The Tipsy Crow,San Diego,CA,3,2.3333,1.5275,2,1
+JVhrmIFZw5WbI_N81l8JZQ,The Lion's Share,San Diego,CA,3,3.3333,2.0817,4,5
+Eu16jQmNwdHe8JScG2-k4Q,The Waterfront Bar & Grill,San Diego,CA,3,4,1.7321,5,5
+3zN4bT0lBDXWyDqZmof7eA,Bub's at the Ballpark,San Diego,CA,3,4.6667,0.5774,5,5
+0es2F2zTINRvy719_AwrQQ,GARAGE Kitchen + Bar,San Diego,CA,3,3.6667,1.5275,4,5
+uaYxb-OEbiZcN7rIMK6bqQ,Whiskey Girl,San Diego,CA,3,2.6667,1.5275,3,3
+O2Gu0SJBdRU4u8j-wDkH9w,Cloak & Petal,San Diego,CA,3,4.3333,0.5774,4,4
+GY3mwinobqHvP1GSopDtLA,FLUXX,San Diego,CA,3,2.3333,2.3094,1,1
+B7RI75k5CYDhP5aJ7NfuOw,The Local Eatery & Drinking Hole,San Diego,CA,3,3.3333,2.0817,4,5
+RRqDpPteB10bXtDXqErSwg,Prohibition,San Diego,CA,3,5,0.0,5,5
+pnsWrEu31Bf0jCt8oHK3iA,Bootlegger,San Diego,CA,3,3,1.7321,4,4
+-1YD91bc8-GcLKw2YUPoxQ,Half Door Brewing,San Diego,CA,3,4,1.7321,5,5
+3SCKxY0BeWdelOrpqBHpZA,Tavern+Bowl East Village,San Diego,CA,3,4,1.7321,5,5
+c7RTc9Iqz_ccDZaYQ-uA_w,The Balboa,San Diego,CA,3,4.6667,0.5774,5,5
+F5eaKY8AhRv-ite57GV1Xg,False Idol,San Diego,CA,3,5,0.0,5,5
+81hVeIrhmO0wlx-OIgvJIA,Aero Club Bar,San Diego,CA,3,4.6667,0.5774,5,5
+JSS0w62_-3RQ-zcXec0EvQ,Parq Nightclub,San Diego,CA,3,4.6667,0.5774,5,5
+xr7dIOtxz1BkO0wVz-CdHw,Trailer Park After Dark,San Diego,CA,3,3,1.7321,2,2
+WSXjwoasPry9Og66dEAdKg,Punch Bowl Social San Diego,San Diego,CA,3,4,0.0,4,4
+deCk44ZDaVaKtLrMWkhb8w,Art Hookah Lounge,San Diego,CA,3,4.6667,0.5774,5,5
+y8N8r-myBGTAZGKN7vCfSg,Brigantine - Portside Pier,San Diego,CA,3,3.3333,2.0817,4,1
+XCiobQpgaR5w2EC-7wqC_w,El Dorado Cocktail Lounge,San Diego,CA,3,4.6667,0.5774,5,5
+kNgda5qDK7jf0h4m2E2v4g,The Casbah,San Diego,CA,3,4.3333,0.5774,4,4
+jM1EetP_d8eHOFUTm5dOlA,Mina Lounge,San Diego,CA,3,3.3333,2.0817,4,5
+dvMXOUK13WxHFunEdMeqhQ,The Nolen,San Diego,CA,3,3.6667,1.5275,4,5
+w1tRWK0yHaAyc4T5ctRmhw,Tin Roof,San Diego,CA,3,3.3333,2.0817,4,4
+exE3JhVmOQOWO2vpQs4anA,Star Bar,San Diego,CA,3,5,0.0,5,5
+TC4WrRzvOpUQG6klahuNBQ,Nolita Hall,San Diego,CA,3,2.3333,2.3094,1,1
+yZFUyWK6FcMJDd3DkZDhog,American Junkie,San Diego,CA,3,2,1.7321,1,1
+6LRQ4SHtwYh_fjUxZyXxGA,Social Tap,San Diego,CA,3,4.6667,0.5774,5,5
+tm0d_r29iHybZ7RRytMrJw,The Whiskey House,San Diego,CA,3,3.3333,1.5275,3,5
+LCLidt3oimUUSHqyMptibw,Double Deuce,San Diego,CA,3,2.3333,2.3094,1,1
+EgXVwOH2p_Ck2U-txtsdFQ,Onyx Room,San Diego,CA,3,5,0.0,5,5
+vUtY3hEsvCDsEA4C2ewucg,Veridiana,São Paulo,SP,3,4.3333,0.5774,4,4
+y23Qi2xdomFCxLQYKmAeUQ,Quintal do Braz,São Paulo,SP,3,4.6667,0.5774,5,5
+nfkWnGRtltAnUR4blR-2zg,Margherita,São Paulo,SP,3,5,0.0,5,5
+QvQKLibg6c_vwh1XbjK92g,Bráz Pizzaria,São Paulo,SP,3,4.6667,0.5774,5,5
+VqvWTxB9xRZgMPwLYsclnw,Bráz,São Paulo,SP,3,3.6667,1.1547,3,3
+fWm5E4qZ2FigkzUhCbHXRw,O Pedaço da Pizza,São Paulo,SP,1,4,Not applicable,4,4
+z2WJd6PUsbXqmR6eAvQbBg,Pizza Na Mão,São Paulo,SP,3,4.6667,0.5774,5,5
+z2zPE4pOlqlPe-kOawX6fQ,Speranza,São Paulo,SP,2,3.5,0.7071,3.5,3
+AdfyoUqjKcqMDHo5IMN5Jw,Veridiana,São Paulo,SP,3,4,1.0,4,5
+7IGIXPVb9s2SRZzmtlspwA,Pizzaria Nacional,São Paulo,SP,3,3.6667,2.3094,5,5
+7zjaRsjNDilMYhv6IxEJRA,Carlos Pizza,São Paulo,SP,1,4,Not applicable,4,4
+0u707szKRgMQHH2XHuZpTA,Speranza,São Paulo,SP,3,4.6667,0.5774,5,5
+7Q007n0ApVb6k_fcUhsvKQ,Pizzaria Camelo,São Paulo,SP,3,4.3333,0.5774,4,4
+ZdNZ5z0RNdb1dW_UYE80Lw,Leggera Pizza Napoletana,São Paulo,SP,1,5,Not applicable,5,5
+wqT5whKUEK9xRloJADJy8A,Napoli Centrale,São Paulo,SP,1,4,Not applicable,4,4
+nhpb_SmXE-dVi07DMgqtUg,A Pizza Da Mooca,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+BqoURMXp1gbL5qRmQNIVfA,Leona Pizza Bar,São Paulo,SP,1,5,Not applicable,5,5
+9zdUQySlG5A7C_OLO2GaLA,Pizzaria Camelo,São Paulo,SP,2,4.5,0.7071,4.5,4
+EFdSHtd0riuiZyxs4D2cvg,Grazie Napoli,Santo André,SP,1,5,Not applicable,5,5
+iPxLSRbNFLFs-CFwY20H6Q,1900 Pizzeria,São Paulo,SP,1,5,Not applicable,5,5
+RwsZeftygWuPDO4WjaZeag,Bazar da Pizza,São Paulo,SP,1,5,Not applicable,5,5
+jh7OZi1McH8Y5V37Xh21hg,Pizzaria do Angelo,São Paulo,SP,1,4,Not applicable,4,4
+JvQmghtQOCRcmhxUE0VTiw,Bráz Elettrica,São Paulo,SP,1,4,Not applicable,4,4
+X1TZyLtqpsYCX6SFWd7snw,1900 Pizzeria,São Paulo,SP,3,4.6667,0.5774,5,5
+7GrNePWfzp-EMKMvnB7Zlw,Via Viberti,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+rfxFAJamDe4c-o0oTudCUg,A Tal da Pizza,São Paulo,SP,2,5,0.0,5.0,5
+db6thrfyWvAIMXPyhExWng,Pizzaria Camelo,São Paulo,SP,2,4.5,0.7071,4.5,4
+mPHHk83ssUTDwiK8OVv6Ww,Vila Milagro,São Paulo,SP,1,4,Not applicable,4,4
+Iqauhd9fdykzyBecrgLPkg,Gioconda Heleniká,São Paulo,SP,1,5,Not applicable,5,5
+16832gAkHDqaBaF0C3wb0w,Mr. Texas Pizza Pan - Santana,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+BJNiYQlnp_PR-OGddNJLmA,1900 Pizzeria,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+xUOTYkocXHZJE3H0Lr-gMQ,Pizza Rock,São Paulo,SP,1,5,Not applicable,5,5
+pOn8hpDX5zqp-V-AtD_2qg,Tutta Pizza,São Paulo,SP,1,5,Not applicable,5,5
+8ZNgYHtbePliAzY6nuROEg,Villa Roma Pizzaria,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+P7keRh1dCXqIJRkY9BHaNw,Pizzaria Carcamano,São Paulo,SP,1,4,Not applicable,4,4
+ny9Ra-AC2i_4w_a_jYSr_w,1900 Pizzeria,São Paulo,SP,1,5,Not applicable,5,5
+0FI1ycGfEjTOTY_i4ySFEQ,Oficina de Pizzas,São Paulo,SP,1,5,Not applicable,5,5
+hu47Rm96UULeyw18Sz20Pw,L'Arco di Pizza,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+5M94JsJ4p1IacvnnVjL7mA,Pizzaria Paulino,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+P0q73uxnOdpb1-m44V9Fwg,Officina Di Pizza,São Paulo,SP,1,3,Not applicable,3,3
+4SvhLf9avEUhTLOEgYrERg,Tutti Pizza,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+KGMQaQrj-Z9zdw619LGFXw,O Animado Ato da Gula,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+SVt2b63gDqliN1iUGqV3Rg,Primo Basílico,São Paulo,SP,1,5,Not applicable,5,5
+IjTC1dO7Bttg4OuVukOryA,Pizzaria Asterix,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+8LEKX8HeSgpUJC-q29Qw4w,Bella Pizza,Santo André,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+2-x1lUjPdD3wsw6exc7eWg,Pizzaria do Gino,São Bernardo do Campo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+sVhWaPQgiZ-j4BF_mcWaOQ,Yes Pizza,Santo André,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+eOVGdVIJHqS7T4nzhIag5A,La Cantinella,São Paulo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+eppDlPpxNY9WNsF5jjI1sA,Pizzaria Coliseu,São Caetano do Sul,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+cKQfNivG1plUzVVY74WEXg,La Family Pizzaria,São Bernardo do Campo,SP,0,Not applicable,Not applicable,Not applicable,Not applicable
+pnSROB18JmOIOi3Nmaih5w,The Butterfly and the Pig,Glasgow,GLG,3,5,0.0,5,5
+3iUvNCibzS22lKUsGcalWA,Bread Meats Bread,Glasgow,GLG,3,5,0.0,5,5
+GTT-5qfEfyHWpCvUoj4MJw,Stereo,Glasgow,GLG,3,4.6667,0.5774,5,5
+v9dLhoA7jCzLiAcZpeLOmA,Bloc+,Glasgow,GLG,3,3,1.7321,4,4
+eKAQJstNvmoLNul9aYie2w,The Counting House,Glasgow,GLG,3,3,1.7321,2,2
+9Qg4e4xt0unDrS3E_-FJyQ,13th Note,Glasgow,GLG,3,4,1.0,4,5
+YQhxT_NIHUlJUQPR6YX1xw,Mono,Glasgow,GLG,3,5,0.0,5,5
+5TZ23B_ShMLnKgRpRwzgtQ,Drygate Brewing Co,Glasgow,GLG,3,4.6667,0.5774,5,5
+hTYpLa8-w4WdCzyRjS5z5A,The Butchershop Bar & Grill,Glasgow,GLG,3,5,0.0,5,5
+gqTgPhvR9svReFKQnok93g,Bier Halle,Glasgow,GLG,3,4,1.0,4,4
+awUfcFP5shfJFR2tX93OIg,Topolabamba,Glasgow,GLG,3,4.6667,0.5774,5,5
+rK7HmMIfY9NS_hOZ3SPxmQ,The 78,Glasgow,GLG,3,3.6667,1.1547,3,3
+mPrBfiT2cf3jgnKVzoGj-g,Where The Monkey Sleeps,Glasgow,GLG,3,4.6667,0.5774,5,5
+0bECWeTwgobpV-1F7iwu3g,Lebowskis,Glasgow,GLG,3,4.6667,0.5774,5,5
+I-kcGzZ1eO7hsxye6QQ4Ew,The Chippy Doon The Lane,Glasgow,GLG,3,4.6667,0.5774,5,5
+hnxcVRYE-Em1Zwm8c-3A5A,Sloans,Glasgow,GLG,3,4.3333,0.5774,4,4
+QtMaqJyNSLLBqOjcL1n1Hg,Meat Bar,Glasgow,GLG,3,4,1.7321,5,5
+tH5WmqzQ8JUTzSKDVeUR4g,TGI Fridays,Scotland,GLG,3,3.3333,0.5774,3,3
+4B7sGFSBSDjiZMBrYG6AYg,Alston Bar & Beef,Glasgow,GLG,3,4.3333,0.5774,4,4
+F8m8kW7KHsV5HJ1M3GyZZA,Five Guys,Glasgow,GLG,3,3.3333,2.0817,4,5
+beNFmoNJUzSPrKiYwCWHTQ,Ad Lib,Glasgow,GLG,3,3.3333,1.1547,4,4
+lmfwuYbZpzp7Ua9EpolNpA,Bar Soba Mitchell Lane,Glasgow,GLG,3,3.3333,0.5774,3,3
+ykFuZwPzHrXih4-Y4NAe4Q,BrewDog DogHouse,Glasgow,GLG,3,3.6667,1.5275,4,2
+YHMNiuF4afVgE2lDhBFI6Q,The Flying Duck,Glasgow,GLG,3,5,0.0,5,5
+pNP1bHoIBJzCTQ57rtJYCQ,Kimchi Cult,Glasgow,GLG,3,4.3333,1.1547,5,5
+PP-Jz3QwLJIi5MF7Q5RhjQ,Max's Bar & Grill,Glasgow,GLG,3,4.3333,0.5774,4,4
+iXurv51al-piRxLw3vqVsg,Ad Lib,Glasgow,GLG,3,4.3333,0.5774,4,4
+FOIwCbYN2WFh7h6gMibSFg,Gourmet Burger Kitchen,Glasgow,GLG,3,3.6667,0.5774,4,4
+WCjqKJjWSP7toByZPQv9Hg,Hard Rock Cafe,Glasgow,GLG,3,4.3333,0.5774,4,4
+MVSzBVL2uD3VePi3-ghOjQ,Bill's,Glasgow,GLG,3,4,1.0,4,4
+QtEjyOoKl3KOlCIhoGdV4g,Lucky 7,Glasgow,GLG,3,3.3333,0.5774,3,3
+1GgoJogpEYPisfUjmao_Ng,Tibo,Glasgow,GLG,3,4.3333,0.5774,4,4
+7yJId8AYNB4PvxdQG1NQ6w,Dennistoun Bar-B-Que,Glasgow,GLG,3,3.6667,1.5275,4,5
+AmoAP4DdGDcDaju1L1_BTw,Las Iguanas,Glasgow,GLG,3,3.6667,1.5275,4,4
+x7-XdIVQufKOtpnkfQAMhg,Handmade Burger Co,Glasgow,GLG,3,3.3333,0.5774,3,3
+Swc-Wov1QwfYymBh9HdnFQ,Buddy's Bar Diner Grill,Glasgow,GLG,3,3.3333,2.0817,4,4
+zsIOn29Q9A3DR_8iVpg5BA,The Anchor Line,Glasgow,GLG,3,4.6667,0.5774,5,5
+kpv6QdzCQBkVyY6m8iHBBg,Nando's,Glasgow,GLG,3,4,0.0,4,4
+7DFVBsQXKuIrrj0-xl17Ew,Porter & Rye,Glasgow,GLG,3,4.6667,0.5774,5,5
+OWW-GAFql3mMQJq9p-wgjw,Scotia Bar,Glasgow,GLG,3,4.3333,1.1547,5,5
+0qKkG8ouDqJkYxnM5pDFqg,Nando's,Glasgow,GLG,3,3.6667,1.5275,4,4
+Oal3XEeDwWeu21lJb-lVgg,Mini Grill,Glasgow,GLG,3,4.6667,0.5774,5,5
+LzILIBsr3nbHEuhtyeYnBQ,Broadcast,Glasgow,GLG,3,3.3333,0.5774,3,3
+WcZsEGGNi0RJdt4ULLGbJg,BRGR,Glasgow,GLG,3,4,1.0,4,4
+bZqgIWhq6yM1meE3igEAaA,The Crafty Pig,Glasgow,GLG,3,3.3333,0.5774,3,3
+8udDArYWsc9Y5gWVD_XXig,Nic's NYC Deli,Glasgow,GLG,3,4.6667,0.5774,5,5
+bAyRU-hc165K3TJ0RAph9w,Miller & Carter,Glasgow,GLG,3,4.6667,0.5774,5,5
+dAEBDDXK4P4rYdp9qpw1sg,Browns Glasgow,Glasgow,GLG,3,3.6667,0.5774,4,4
+ChRDtICkC0AfHOCmBgrSBQ,Smoak BBQ,Glasgow,GLG,3,3,0.0,3,3
+7tjclzsAat9c5ZChIo3pyw,Ingram Wynd,Glasgow,GLG,3,4,1.0,4,3
+pE2eS0PW9dnP2Iy3oU38Gg,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+2LffbDWKb_WDXUY9WBAw2Q,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+y7oB9EWUCUS_1qy6fVn9EA,McDonald's,Rio de Janeiro,RJ,2,1,0.0,1.0,1
+FracxmKypb99OZBGDA4ckQ,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+zuvJps4B9YpUCt1w96ru5w,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+IYobntFrgQjOtCaSliuGwA,McDonald's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+Yu5BBqUzir-0k4LCTi-VkQ,Comuna,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+jseVgqpZPjt-zAChtwjFEg,Gringo Café,Rio de Janeiro,RJ,3,3.6667,1.5275,4,5
+weWONFLoHhTs7C5hB3ctJw,TT Burger,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+uJuTblcLXkHCeoGdk44anw,Hell's Burguer,Rio de Janeiro,RJ,3,3,1.0,3,4
+JhbrYYw8r_B-p30reYc2HA,Bibi Sucos,Rio de Janeiro,RJ,3,3.6667,1.5275,4,2
+ZWlbgajLGL5iIp0hObJTWg,Banana Jack,Rio de Janeiro,RJ,3,2.6667,1.1547,2,2
+lXkoXuF0QiLQCt0y26jQhA,Stalos,Rio de Janeiro,RJ,3,4,1.0,4,3
+Iagx7eBREmoVnAjLLw3OUw,Pub Escondido,Rio de Janeiro,RJ,3,3.6667,0.5774,4,4
+0oEYRbgmnYwP8CHIGhGOtQ,B de Burger,Rio de Janeiro,RJ,3,3.6667,2.3094,5,5
+4PnKVKYKuNqSukI3cMP6zw,Caverna,Rio de Janeiro,RJ,1,5,Not applicable,5,5
+cQMTZnRr3knNwvG51NL04g,Cafofo Pub,Rio de Janeiro,RJ,3,4.3333,0.5774,4,4
+eodM-2R5gY0CkriEPlfikw,The Boua,Rio de Janeiro,RJ,3,2.6667,0.5774,3,3
+yPrW0bDq4-h_EOgxcOX_iQ,The Fifties,22290-160,Rio de Janeiro,0,Not applicable,Not applicable,Not applicable,Not applicable
+Kdcu7GPenVVIJDLSExyzPw,BB Lanches,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+kWeWg9quN7j14g7H9YJ8MA,Beco do Hamburguer,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+duTSETeotGWndD4W2VnTXw,Reserva T.T. Burger,Rio de Janeiro,RJ,3,3,0.0,3,3
+MTcVVj0-_p-2hFa6kLauFA,Koni,Rio de Janeiro,RJ,3,4.3333,1.1547,5,5
+noo07gYMrqP-iyvgWmft3A,Vikings,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+lkG7qjInbWDRnjmG5xsNMQ,Meating Homemade,Rio de Janeiro,RJ,3,3.3333,1.1547,4,4
+ReIkbLqpR1H4ZzIgs88JmA,Lupulino,Rio de Janeiro,RJ,3,3,1.0,3,4
+QStP2W-mCgr3dTDs0kBaBg,Bucaneiros,Rio de Janeiro,RJ,1,5,Not applicable,5,5
+OxetVmWSSPa3cGW9bObPEQ,Rolé,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+YmWoKRoPz3TpH38qiD2SQQ,BIBI,Rio de Janeiro,RJ,3,4.3333,1.1547,5,5
+a2e8eodjtPoNoy0j_gm5Dw,Bar do Lado,Rio de Janeiro,RJ,3,4,1.0,4,4
+k7CphnE-vH8XdE0R2W-HFw,Nectar,Rio de Janeiro,RJ,3,2.3333,1.5275,2,2
+B1Z628TrpqzWt4Cwpbp1ew,Choperia Brazooka,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+u8F1byJgSS_5df8ScZeMIQ,Mironga,Rio de Janeiro,RJ,3,2.6667,0.5774,3,3
+aYisiX78ReZ_uZbUCNGIdg,Pavelka,Rio de Janeiro,RJ,2,4.5,0.7071,4.5,4
+YqLr2fOBb_gJ5cMA9EyLUQ,Inverso Bar,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+gYw3wZAyjnTEx3gaIis_CQ,Metrópole,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+uCkmoza31jNYQPkXcIHvCA,Batata Inglesa,22290-906,Rio de Janeiro,0,Not applicable,Not applicable,Not applicable,Not applicable
+gzDDB5QHlSh6Hk_W94jsQg,Zacks,Rio de Janeiro,RJ,1,3,Not applicable,3,3
+5Vgjdf9yNVNjVACNYjoLEQ,Da Roberta,Rio de Janeiro,RJ,1,3,Not applicable,3,3
+uV4Wuhqm0lc1JgcjOeeooA,Bar da Gema,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+bpgH-c8xPUt8s2__790ObQ,Burger King,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+82_ftFPaANdBECmAOIU9JA,Via Sete,Rio de Janeiro,RJ,3,3.6667,0.5774,4,4
+KXaggp74cOroM-EnEaRnSw,Bar da Frente,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+8OtULYaSzF8ve3hnKtkTFg,Café 18 do Forte,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+YGsSxSaw1t_3d7rrgY7QPg,Bob's,22071-020,Rio de Janeiro,3,1.6667,1.1547,1,1
+IReht03PYK73K5qQpAxIRg,Cortés,Rio de Janeiro,RJ,3,4.6667,0.5774,5,5
+_IwuFwUBP8VIUzRDFh2_qA,Subway,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+8GtLwXDAwK1ofMmpyp_zDQ,Beluga,Rio de Janeiro,RJ,1,4,Not applicable,4,4
+1nzGrDTjHpqSs82x2EGuqQ,Wenceslau Beer Club,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
+g6x6FGe2oEPhw02g6QlP9A,Fry's,Rio de Janeiro,RJ,0,Not applicable,Not applicable,Not applicable,Not applicable
