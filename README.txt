@@ -21,7 +21,8 @@ since I assumed that it would save me some time if I didn't add other fields to 
 besides the two mentioned. Still, it took my around 6 to 7 hours to estabilish a database for
 'data_analysis_top_categories.py', which is why I exported that collection and uploaded it to
 this git repository so that is possible to import it from MongoDB Compass and won't be necessary
-to run 'populate_top_categories.py'.
+to run 'populate_top_categories.py'. The exported database is in the JSON format and is called
+'top_categories.json'.
 
 Regarding the .kml file, I wasn't able to understand in the given time how to exactly work with
 .kml data. I tried using the pykml package but didn't quite get how to extract the geographic
