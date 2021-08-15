@@ -1,10 +1,27 @@
 import requests, json, pymongo, time
+#import math
 
 api_key = '2VK2TBy2esxU85VXaOUoQgYc4Qq3EuT39zREAcIs_WCT-i7378hngRQrLLITu9RsU1iPtGxkFMJymYZuuwaOQCK7tVJe2DVCmykQErYG40vGX_Q_a6MPS9HQzwYVYXYx'
 headers = {
 	'Authorization': 'Bearer %s' % api_key,
 }
 params = {'limit':50, 'sort_by':'review_count'}
+
+def levenshtein_distance(business_name_1, business_name_2):
+	if business_name_1 == "":
+		return len(business_name_2)
+	if not business_name_2:
+		return len(business_name_1)
+	if business_name_1[-1] == business_name_2[-1]:
+		cost = 0
+	else:
+		cost = 1
+
+	return min([
+		levenshtein_distance(business_name_1[:-1], business_name_2) + 1,
+		levenshtein_distance(business_name_1, business_name_2[:-1]) + 1, 
+		levenshtein_distance(business_name_1[:-1], business_name_2[:-1]) + cost
+	])
 
 def get_business_and_reviews(location=None, latitude=None, longitude=None, term=None):
 	collection_name = ''
@@ -71,6 +88,15 @@ def get_business_and_reviews(location=None, latitude=None, longitude=None, term=
 							'business_reviewed_name': business['name']
 						}
 						bulk_insert_reviews_list.append(review_dict)
+			# levenshtein distance calculation:
+			# for outer_business in bulk_insert_business_list:
+			# 	shorter_levenshtein_distance = [math.inf, -1]
+			# 	for index, inner_business in enumerate(bulk_insert_business_list):
+			# 		if outer_business['business_name'] != inner_business['business_name']:
+			# 			calculated_ld = levenshtein_distance(outer_business['business_name'], inner_business['business_name'])
+			# 			if calculated_ld < shorter_levenshtein_distance[0]:
+			# 				shorter_levenshtein_distance = [calculated_ld, index]
+			# 	outer_business['most_similar_name_at_location'] = bulk_insert_business_list[shorter_levenshtein_distance[1]]['business_name']
 			business_collection.insert_many(bulk_insert_business_list)
 			reviews_collection.insert_many(bulk_insert_reviews_list)
 		else:

@@ -1,5 +1,4 @@
 from get_single_location_reviews import get_business_and_reviews as get_br
-from csv import DictReader
 import datetime
 
 start = datetime.datetime.now()
@@ -30,4 +29,4 @@ for location in locations:
 
 end = datetime.datetime.now()
 
-print(f'The program took {end - start} to finish.\n')
+print(f'It took {end - start} to populate the database.')
